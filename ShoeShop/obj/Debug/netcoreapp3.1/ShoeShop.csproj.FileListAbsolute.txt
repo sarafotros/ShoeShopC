@@ -1,0 +1,12 @@
+/Users/sara.fotros/Development/code/cSharp/ShoeShpe/ShoeShop/bin/Debug/netcoreapp3.1/ShoeShop.deps.json
+/Users/sara.fotros/Development/code/cSharp/ShoeShpe/ShoeShop/bin/Debug/netcoreapp3.1/ShoeShop.runtimeconfig.json
+/Users/sara.fotros/Development/code/cSharp/ShoeShpe/ShoeShop/bin/Debug/netcoreapp3.1/ShoeShop.runtimeconfig.dev.json
+/Users/sara.fotros/Development/code/cSharp/ShoeShpe/ShoeShop/bin/Debug/netcoreapp3.1/ShoeShop.dll
+/Users/sara.fotros/Development/code/cSharp/ShoeShpe/ShoeShop/bin/Debug/netcoreapp3.1/ShoeShop.pdb
+/Users/sara.fotros/Development/code/cSharp/ShoeShpe/ShoeShop/obj/Debug/netcoreapp3.1/ShoeShop.csprojAssemblyReference.cache
+/Users/sara.fotros/Development/code/cSharp/ShoeShpe/ShoeShop/obj/Debug/netcoreapp3.1/ShoeShop.AssemblyInfoInputs.cache
+/Users/sara.fotros/Development/code/cSharp/ShoeShpe/ShoeShop/obj/Debug/netcoreapp3.1/ShoeShop.AssemblyInfo.cs
+/Users/sara.fotros/Development/code/cSharp/ShoeShpe/ShoeShop/obj/Debug/netcoreapp3.1/ShoeShop.csproj.CoreCompileInputs.cache
+/Users/sara.fotros/Development/code/cSharp/ShoeShpe/ShoeShop/obj/Debug/netcoreapp3.1/ShoeShop.dll
+/Users/sara.fotros/Development/code/cSharp/ShoeShpe/ShoeShop/obj/Debug/netcoreapp3.1/ShoeShop.pdb
+/Users/sara.fotros/Development/code/cSharp/ShoeShpe/ShoeShop/obj/Debug/netcoreapp3.1/ShoeShop.genruntimeconfig.cache
