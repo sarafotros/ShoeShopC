@@ -1,3 +1,3 @@
 # ShouShopC
 
-C# Project
+C#  Console App 
